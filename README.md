@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-[[Github Stats](https://github-readme-stats.vercel.app/api?username=squirrelgrip)]
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=squirrelgrip)]
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=squirrelgrip)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **SquirrelGrip/SquirrelGrip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
